@@ -1,5 +1,6 @@
 // https://www.youtube.com/watch?v=Rh3tobg7hEo
 // http://localhost:5173/
+// npm run dev
 
 import { useEffect, useState } from "react"
 import { NewTodoForm } from "./NewTodoForm"
